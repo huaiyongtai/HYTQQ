@@ -1,0 +1,24 @@
+//
+//  A-6-数据的排序及分组.pch
+//  A-6-数据的排序及分组
+//
+//  Created by HelloWorld on 16/1/19.
+//  Copyright (c) 2016年 HelloWorld. All rights reserved.
+//
+
+#ifndef A_6__________A_6__________pch
+#define A_6__________A_6__________pch
+
+
+#endif
+
+
+#ifdef __OBJC__
+
+#import "UIView+Extension.h"
+
+#define SCREEN_WIDTH    [UIScreen  mainScreen].bounds.size.width
+#define SCREEN_HEIGHT   [UIScreen mainScreen].bounds.size.height
+
+#endif
+
